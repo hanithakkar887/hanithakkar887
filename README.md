@@ -1,33 +1,9 @@
-# 👋 Hi, I’m Hani Thakkar!
+<h1 align="center">Hi 👋, I'm Hani Thakkar</h1>
+<h3 align="center">A passionate developer and lifelong learner from India</h3>
 
-🌟 **Aspiring Developer | Lifelong Learner | Problem Solver**  
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
-I’m passionate about learning new technologies and building impactful projects. Currently exploring **Generative AI**, **Full-Stack Development**, and **Data Structures & Algorithms**.
+- 🌱 I’m currently learning **Generative AI, Streamlit**  
+- 🌱 I’m currently learning **React, Node.js**  
 
----
-
-## 🌱 **What I’m Learning**
-- **Programming Languages**: Python, Java, Ruby, and Node.js
-- **Web Development**: HTML, CSS, JavaScript, React, and Streamlit
-- **AI Projects**: Shayari Generators, AI Coding Helpers, and more!
-
----
-
-## 🔧 **Projects**
-🚀 Check out some of my favorite projects:
-- **AI Shayari Generator**: A creative app that writes poetic Shayaris using AI.  
-- **Resume Customizer**: A tool to tailor resumes based on job descriptions.  
-- **Job Position Analyzer**: A data-driven app to analyze job trends.  
-
----
-
-## 📫 **Connect with Me**
-- 💼 LinkedIn: [Hani Thakkar](https://www.linkedin.com/in/hanithakkar/)
-- 🌐 Portfolio: [Coming Soon!]
-- 📧 Email: hanithakkar@example.com
-
----
-
-### 💡 Fun Fact:
-I’m a tea lover ☕, vegetarian 🌱, and enjoy problem-solving challenges!  
-Let’s connect and build something amazing together. 😊
+- 💬 Ask me about **Python, MERN**  
