@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Python, JavaScript, MERN Stack, and Responsive Web Design**
 
-- 📫 How to reach me: **hanthakkar887@gmail.com**
+- 📫 How to reach me: **hanithakkar887@gmail.com**
 
 ---
 
