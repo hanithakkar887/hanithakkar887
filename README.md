@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/max/1400/1*yw0TnheAGN-LPneDaTlaxw.gif)](https://github.com/HaniThakkar)
+[![MasterHead](https://miro.medium.com/max/1400/1*yw0TnheAGN-LPneDaTlaxw.gif)](https://github.com/hanithakkar887)
 
 <h1 align="center">Hi 👋, I'm Hani Thakkar</h1>
 <h3 align="center">A passionate Web Developer and Tech Enthusiast from India</h3>
